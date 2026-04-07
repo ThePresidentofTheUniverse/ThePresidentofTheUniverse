@@ -11,8 +11,8 @@ I also understand how to write queries and scripts for MSSQL as well.
 I am planning on learning how to code in ASP.NET in the near future.
 
 ## What else do you know about computers?
-I understand how to work with Windows 10 and Windows 11 computers as well as understanding how to use both Microsofts Intune and Entra for managing various devices
-I also know how to use and handle Linux systems as I am a Linux user myself.
+I understand how to work with Windows 10 and Windows 11 computers as well as understanding how to use both Microsofts Intune and Entra for managing various devices,
+I also know how to use and handle Linux systems as well.
 
 ## Why does coding interest you?
 I found coding to be very interesting because it requires a lot of problem solving and planning.
