@@ -5,10 +5,8 @@ I am an asipiring coder who is currently working hard on getting their Associate
 My concentration is in Web, Visual Application Development and Info Security.
 
 ## What do you know about coding?
-I have deep knowledge in C# and am well versed in Java, HTML, CSS and a little bit of JavaScript.
+I have deep knowledge in C# and am well versed in Java, ASP.NET, HTML, CSS and a little bit of JavaScript.
 I also understand how to write queries and scripts for MSSQL as well.
-
-I am planning on learning how to code in ASP.NET in the near future.
 
 ## What else do you know about computers?
 I understand how to work with Windows 10 and Windows 11 computers as well as understanding how to use both Microsofts Intune and Entra for managing various devices,
@@ -26,4 +24,4 @@ If the program does not respond to a persons input, the program is giving that p
 personal email: njabbott2005@gmail.com
 
 ## Fun fact about me:
-I know how to use both Vim and Vi effectively.
+I know how to use Vi and Vim effectively.
